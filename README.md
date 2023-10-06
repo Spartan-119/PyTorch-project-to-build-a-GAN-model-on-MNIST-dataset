@@ -1,7 +1,7 @@
 # PyTorch-project-to-build-a-GAN-model-on-MNIST-dataset
 
 
-## Read the detailed article on this project [here](https://medium.com/@abin_varghese/mastering-art-and-code-a-journey-into-generative-adversarial-networks-for-handwritten-digit-8913d2e511c8)
+# Read the detailed article on this project --> [here](https://medium.com/@abin_varghese/mastering-art-and-code-a-journey-into-generative-adversarial-networks-for-handwritten-digit-8913d2e511c8)
 
 ### Project Description
 
